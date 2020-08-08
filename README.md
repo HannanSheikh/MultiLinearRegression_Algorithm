@@ -1,1 +1,1 @@
-# MultiLinearRegression_Algorithm
+# Multi_LinearRegression_Algorithm
